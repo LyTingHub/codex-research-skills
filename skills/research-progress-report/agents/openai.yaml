@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研进展汇报"
+  short_description: "汇聚指定时期的科研证据，形成周报主线并制作汇报材料"
+  default_prompt: "使用 $research-progress-report 汇总指定目录和时间范围内的科研进展，先输出证据台账、任务定义、实验口径映射和汇报大纲，待我确认后再制作汇报材料。"
